@@ -1,0 +1,4 @@
+REACT_APP_IMGFLIP_USERNAME=your_username
+REACT_APP_IMGFLIP_PASSWORD=your_password
+
+# Create a file .env with the first two lines (replace your username and password)
