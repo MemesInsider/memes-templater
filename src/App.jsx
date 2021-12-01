@@ -26,7 +26,7 @@ function App() {
         <section className="tiles">
             {
                 meme && (
-                    <Meme template={{ url: meme }} no_text={true} />
+                    <Meme template={{ url: meme }} no_text={true} no_anchor={true} />
                 )
             }
             {!meme && template && (
